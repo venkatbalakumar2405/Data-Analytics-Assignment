@@ -1,0 +1,201 @@
+OrderID,OrderDate,Category,Region,Sales,Profit,Quantity
+1,2024-11-23,Furniture,East,259.99,-9.67,5
+2,2024-02-22,Office Supplies,East,433.48,-37.54,10
+3,2024-04-21,Furniture,East,214.86,41.35,9
+4,2024-10-06,Technology,West,597.48,157.88,8
+5,2024-01-04,Furniture,South,292.31,-0.91,6
+6,2024-06-21,Furniture,East,114.78,32.3,7
+7,2024-11-05,Technology,East,545.5,184.33,8
+8,2024-07-12,Furniture,North,887.74,55.69,10
+9,2024-04-08,Office Supplies,East,668.04,165.59,1
+10,2024-02-10,Furniture,East,292.41,54.41,7
+11,2024-07-05,Furniture,North,225.32,4.54,6
+12,2024-12-15,Office Supplies,East,642.28,90.15,10
+13,2024-05-05,Furniture,South,284.55,90.04,7
+14,2024-12-18,Office Supplies,West,845.99,210.82,6
+15,2024-04-27,Furniture,North,282.39,-1.43,7
+16,2024-10-17,Office Supplies,North,662.33,51.68,4
+17,2024-11-25,Technology,West,156.84,36.9,5
+18,2024-10-02,Technology,South,411.41,-0.54,10
+19,2024-03-11,Office Supplies,South,760.67,218.69,2
+20,2024-03-19,Office Supplies,West,604.48,44.21,7
+21,2024-11-01,Technology,North,863.56,-81.89,9
+22,2024-02-28,Office Supplies,North,129.32,12.37,6
+23,2024-08-20,Furniture,North,766.72,98.49,9
+24,2024-02-24,Office Supplies,North,616.79,-19.26,9
+25,2024-03-23,Office Supplies,East,337.67,-30.81,10
+26,2024-07-04,Technology,West,256.05,39.77,1
+27,2024-02-10,Furniture,South,978.42,136.7,2
+28,2024-03-05,Furniture,South,181.82,24.99,9
+29,2024-11-06,Technology,West,760.16,159.97,9
+30,2024-06-08,Technology,North,901.62,93.02,8
+31,2024-05-06,Furniture,East,40.61,6.06,6
+32,2024-10-28,Furniture,East,713.68,-52.46,2
+33,2024-02-04,Furniture,North,523.87,13.26,2
+34,2024-09-05,Furniture,West,584.69,5.47,10
+35,2024-08-30,Technology,West,114.99,10.81,2
+36,2024-08-04,Technology,South,679.9,233.12,1
+37,2024-02-20,Furniture,South,804.58,-40.9,6
+38,2024-04-08,Furniture,South,433.44,10.99,3
+39,2024-05-07,Furniture,South,115.95,22.43,9
+40,2024-10-03,Furniture,East,182.98,21.69,4
+41,2024-04-19,Technology,East,391.39,134.4,3
+42,2024-05-15,Technology,North,702.66,160.72,7
+43,2024-10-11,Office Supplies,South,206.1,-0.42,3
+44,2024-01-30,Office Supplies,East,76.02,12.38,6
+45,2024-09-14,Office Supplies,West,961.56,-61.49,1
+46,2024-04-05,Furniture,East,415.7,134.57,4
+47,2024-10-18,Furniture,East,100.34,19.65,10
+48,2024-10-16,Office Supplies,North,220.17,48.94,5
+49,2024-05-02,Technology,South,678.26,23.74,3
+50,2024-06-10,Furniture,East,628.74,96.42,8
+51,2024-02-21,Furniture,West,279.9,89.56,9
+52,2024-02-05,Furniture,North,174.59,48.04,5
+53,2024-12-26,Technology,East,313.39,62.22,9
+54,2024-03-09,Technology,East,747.57,-22.46,2
+55,2024-05-24,Office Supplies,West,219.53,40.7,6
+56,2024-05-15,Office Supplies,South,907.23,254.7,5
+57,2024-02-17,Office Supplies,South,63.21,3.17,5
+58,2024-03-07,Office Supplies,North,746.41,110.66,3
+59,2024-08-06,Office Supplies,East,93.74,27.88,2
+60,2024-03-17,Office Supplies,East,590.86,-19.71,6
+61,2024-03-06,Furniture,North,901.0,232.69,6
+62,2024-01-21,Technology,West,673.59,39.85,4
+63,2024-10-13,Technology,West,867.31,294.27,4
+64,2024-03-31,Technology,East,741.83,36.71,3
+65,2024-07-29,Office Supplies,West,176.01,37.94,5
+66,2024-07-14,Furniture,South,215.58,67.54,4
+67,2024-06-28,Technology,West,43.19,-0.57,4
+68,2024-06-17,Technology,East,364.12,47.06,5
+69,2024-12-13,Office Supplies,North,133.03,44.79,1
+70,2024-04-01,Office Supplies,North,126.23,12.06,1
+71,2024-06-09,Technology,East,901.51,-13.04,7
+72,2024-01-23,Office Supplies,South,529.52,139.23,1
+73,2024-12-17,Office Supplies,West,442.67,144.75,6
+74,2024-06-18,Office Supplies,North,725.36,25.49,2
+75,2024-06-07,Office Supplies,South,414.35,13.69,6
+76,2024-03-06,Furniture,South,683.77,209.41,7
+77,2024-11-11,Office Supplies,North,556.98,-55.6,7
+78,2024-05-26,Furniture,South,614.53,27.66,10
+79,2024-08-14,Technology,West,483.72,147.79,9
+80,2024-03-27,Office Supplies,East,525.14,97.06,5
+81,2024-06-20,Furniture,West,240.15,-2.5,5
+82,2024-01-13,Furniture,West,619.05,152.17,8
+83,2024-08-21,Technology,West,504.49,4.94,7
+84,2024-12-01,Office Supplies,East,782.85,-1.19,2
+85,2024-12-22,Office Supplies,South,566.26,177.16,1
+86,2024-03-03,Technology,West,674.23,232.31,8
+87,2024-10-31,Technology,South,818.71,246.77,10
+88,2024-08-06,Office Supplies,South,748.78,85.06,3
+89,2024-05-12,Furniture,North,494.91,3.79,9
+90,2024-08-13,Furniture,North,286.28,12.56,4
+91,2024-10-03,Furniture,West,246.64,52.36,3
+92,2024-12-27,Furniture,East,419.45,60.47,7
+93,2024-07-31,Furniture,West,401.69,98.98,7
+94,2024-12-22,Furniture,South,25.78,1.5,8
+95,2024-07-18,Technology,West,235.03,22.59,8
+96,2024-01-15,Technology,North,729.7,203.02,7
+97,2024-03-06,Office Supplies,East,600.05,119.02,7
+98,2024-02-12,Office Supplies,South,869.51,-15.84,3
+99,2024-05-13,Technology,North,465.61,24.15,4
+100,2024-07-13,Technology,South,838.21,93.58,5
+101,2024-10-03,Furniture,North,657.14,165.31,4
+102,2024-11-29,Furniture,East,215.37,-19.56,4
+103,2024-03-19,Furniture,West,676.07,103.97,8
+104,2024-04-21,Technology,North,184.43,31.95,6
+105,2024-02-28,Furniture,North,587.11,186.7,2
+106,2024-10-21,Office Supplies,South,942.64,-10.13,7
+107,2024-10-30,Office Supplies,West,703.25,25.11,2
+108,2024-12-16,Office Supplies,East,786.98,44.26,10
+109,2024-08-07,Office Supplies,North,515.84,27.63,2
+110,2024-08-03,Technology,East,961.57,178.86,7
+111,2024-08-23,Office Supplies,West,192.61,25.96,7
+112,2024-11-29,Technology,South,446.86,102.31,8
+113,2024-05-17,Technology,West,293.35,30.17,2
+114,2024-08-25,Office Supplies,South,48.13,13.62,6
+115,2024-04-03,Technology,West,801.88,42.62,6
+116,2024-11-01,Office Supplies,North,29.95,9.78,9
+117,2024-02-13,Furniture,South,564.07,4.59,8
+118,2024-08-31,Office Supplies,South,797.07,-46.33,8
+119,2024-04-23,Technology,West,670.68,44.3,5
+120,2024-10-10,Office Supplies,North,996.7,147.19,7
+121,2024-06-29,Office Supplies,South,320.49,1.2,5
+122,2024-04-08,Technology,East,951.86,200.44,9
+123,2024-04-08,Furniture,South,730.09,247.85,5
+124,2024-09-25,Office Supplies,North,835.98,27.85,2
+125,2024-07-03,Furniture,North,713.86,-30.72,1
+126,2024-01-24,Furniture,North,645.11,154.02,3
+127,2024-02-22,Furniture,North,489.14,26.08,8
+128,2024-01-27,Technology,South,825.67,66.32,2
+129,2024-02-07,Office Supplies,East,166.21,25.48,3
+130,2024-06-04,Furniture,West,566.91,49.48,2
+131,2024-11-01,Office Supplies,West,392.77,121.3,9
+132,2024-06-01,Office Supplies,South,577.26,-42.08,5
+133,2024-02-20,Furniture,West,667.22,-19.57,5
+134,2024-03-29,Office Supplies,East,22.62,2.32,3
+135,2024-10-31,Technology,North,246.85,53.85,1
+136,2024-12-25,Technology,East,925.43,235.54,4
+137,2024-11-16,Office Supplies,West,132.48,0.15,7
+138,2024-03-17,Technology,West,78.45,20.14,2
+139,2024-10-31,Office Supplies,North,141.87,29.78,8
+140,2024-12-24,Technology,North,549.18,53.27,9
+141,2024-11-02,Furniture,South,611.64,-54.04,6
+142,2024-04-27,Office Supplies,East,584.72,142.32,5
+143,2024-03-30,Technology,South,197.86,32.33,5
+144,2024-11-21,Technology,East,361.0,18.05,8
+145,2024-12-09,Furniture,West,423.41,52.06,6
+146,2024-12-05,Technology,East,106.3,1.44,8
+147,2024-02-29,Technology,East,472.74,-35.74,9
+148,2024-09-22,Technology,South,764.79,-6.42,8
+149,2024-10-08,Furniture,North,883.23,104.33,8
+150,2024-01-15,Office Supplies,West,324.54,-30.46,3
+151,2024-07-27,Furniture,West,472.22,-22.26,2
+152,2024-03-19,Technology,North,711.3,61.86,9
+153,2024-09-04,Technology,West,560.24,40.68,8
+154,2024-11-02,Office Supplies,West,290.72,74.28,2
+155,2024-07-31,Technology,North,297.18,10.21,1
+156,2024-10-27,Office Supplies,South,457.62,53.98,3
+157,2024-06-19,Office Supplies,South,934.2,272.15,8
+158,2024-12-23,Furniture,South,858.89,72.88,4
+159,2024-06-11,Office Supplies,South,398.36,79.14,7
+160,2024-11-29,Furniture,South,143.72,48.06,1
+161,2024-06-18,Furniture,South,535.43,56.55,2
+162,2024-03-14,Technology,West,480.1,161.38,2
+163,2024-06-22,Office Supplies,South,854.73,242.36,2
+164,2024-09-30,Technology,North,874.94,-73.36,8
+165,2024-02-05,Furniture,North,751.83,71.64,4
+166,2024-02-20,Office Supplies,East,183.04,6.36,8
+167,2024-01-15,Furniture,North,307.5,21.12,1
+168,2024-03-15,Furniture,South,688.16,-13.06,10
+169,2024-03-30,Furniture,South,689.47,85.46,10
+170,2024-10-25,Furniture,West,645.15,68.91,8
+171,2024-12-07,Furniture,South,684.06,-19.78,5
+172,2024-08-14,Technology,North,696.51,73.53,7
+173,2024-06-03,Furniture,South,124.52,8.92,8
+174,2024-07-02,Office Supplies,North,41.5,11.35,5
+175,2024-07-21,Technology,East,867.77,217.15,10
+176,2024-01-26,Office Supplies,South,780.23,2.77,5
+177,2024-06-29,Furniture,West,265.61,63.75,10
+178,2024-12-03,Office Supplies,West,905.34,172.79,2
+179,2024-06-07,Technology,East,377.56,-15.43,10
+180,2024-05-31,Technology,South,216.78,55.05,3
+181,2024-07-06,Office Supplies,North,271.83,73.7,3
+182,2024-09-03,Technology,North,478.96,-31.67,2
+183,2024-04-25,Office Supplies,South,378.46,96.81,9
+184,2024-01-08,Technology,East,381.21,90.37,8
+185,2024-05-14,Office Supplies,South,126.18,0.66,6
+186,2024-01-13,Office Supplies,North,236.94,-16.95,10
+187,2024-08-25,Office Supplies,North,134.34,-10.69,7
+188,2024-01-20,Technology,South,115.25,34.49,2
+189,2024-03-10,Technology,South,677.08,158.72,6
+190,2024-10-03,Technology,West,661.82,182.11,7
+191,2024-11-11,Technology,North,696.48,-1.55,1
+192,2024-08-15,Furniture,North,981.31,64.08,2
+193,2024-11-26,Technology,East,290.36,97.47,7
+194,2024-08-20,Furniture,West,971.67,-75.05,10
+195,2024-06-19,Furniture,West,221.1,60.45,10
+196,2024-10-10,Furniture,West,341.99,-11.49,4
+197,2024-11-01,Furniture,North,987.78,141.35,3
+198,2024-03-30,Furniture,East,34.56,8.83,3
+199,2024-05-01,Office Supplies,North,190.76,-14.58,1
+200,2024-08-03,Office Supplies,East,486.72,121.73,2
